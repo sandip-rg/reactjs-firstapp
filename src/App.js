@@ -101,7 +101,7 @@ function App() {
         />
       </label>
       <label>
-        LDAP ID:
+        LDAP ID :
         <input
           type="text"
           name="ldapId"
